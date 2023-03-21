@@ -1,2 +1,2 @@
-# Codefree-git
-Curso de Gihub de FreeCodeCamp.
+# Mi primer READE (Codefree-git)
+Curso de Gihub en FreeCodeCamp.
